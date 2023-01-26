@@ -1,0 +1,5 @@
+*.cfg
+/server/*
+/src/cache/
+/src/resources/\[local\]/
+/src/db/
