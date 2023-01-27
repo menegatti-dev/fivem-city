@@ -1,3 +1,6 @@
 [submodule "vendor/server-data"]
 	path = vendor/server-data
 	url = https://github.com/citizenfx/cfx-server-data.git
+[submodule "src/resources/[framework]"]
+	path = src/resources/[framework]
+	url = https://github.com/Armoury-Software/ArmouryFiveM.git
